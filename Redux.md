@@ -111,3 +111,9 @@ console.log(currentValue)
 // 2
 ```
 
+
+
+### Study
+
+1. redux-saga
+2. redux toolkit
